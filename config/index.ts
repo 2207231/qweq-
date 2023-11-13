@@ -1,7 +1,7 @@
 import type { AppInfo } from '@/types/app'
-export const APP_ID = `${process.env.NEXT_PUBLIC_APP_ID}`
-export const API_KEY = `${process.env.NEXT_PUBLIC_APP_KEY}`
-export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
+export const APP_ID = `${29ece349-d79c-4f18-9333-362769803efd}`
+export const API_KEY = `${app-ODVW2SRsA5c2hLJjGM6fn16e}`
+export const API_URL = `${https://udify.app/chat/eCEAdq8mjvsAGQQ8}`
 export const APP_INFO: AppInfo = {
   title: 'Chat APP',
   description: '',
